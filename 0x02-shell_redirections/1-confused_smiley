@@ -1,0 +1,8 @@
+#!/bin/bash
+echo \"\($ cat > 1-confused_smiley
+#!/bin/bash
+echo "(Ôo)'"
+[A[C[C[C[C[C[C[C[A[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[echo "\"(Ôo)'"

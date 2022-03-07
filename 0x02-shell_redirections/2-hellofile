@@ -1,3 +1,2 @@
 #!/bin/bash
-FILE="/etc/passwd"
-echo "*** 2-hellofile -$FILE contents ***"
+cat /etc/passwd
